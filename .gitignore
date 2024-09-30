@@ -1,0 +1,104 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+api/bin/Debug/net8.0/api.dll
+api/bin/Debug/net8.0/api.exe
+api/bin/Debug/net8.0/api.pdb
+api/obj/Debug/net8.0/api.AssemblyInfo.cs
+api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+api/obj/Debug/net8.0/api.assets.cache
+api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+api/obj/Debug/net8.0/api.dll
+api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+api/obj/Debug/net8.0/api.pdb
+api/obj/Debug/net8.0/api.sourcelink.json
+api/obj/Debug/net8.0/apphost.exe
+api/obj/Debug/net8.0/ref/api.dll
+api/obj/Debug/net8.0/refint/api.dll
+api/obj/Debug/net8.0/api.AssemblyInfo.cs
+api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+api/obj/Debug/net8.0/api.AssemblyInfo.cs
+api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+api/bin/Debug/net8.0/api.dll
+api/bin/Debug/net8.0/api.exe
+api/bin/Debug/net8.0/api.pdb
+api/obj/Debug/net8.0/api.AssemblyInfo.cs
+api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+api/obj/Debug/net8.0/api.dll
+api/obj/Debug/net8.0/api.pdb
+api/obj/Debug/net8.0/api.sourcelink.json
+api/obj/Debug/net8.0/apphost.exe
+api/obj/Debug/net8.0/ref/api.dll
+api/obj/Debug/net8.0/refint/api.dll
+
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.sln.ide
+*.suo
+*.cache
+*.log
+project.lock.json
+project.fragment.lock.json
+*.db
+*.pdb
+
+# Visual Studio
+.vscode/
+.vs/
+*.vs
+*.sln
+*.sln.docstates
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# React specific
+*.env
+build/
+coverage/
+*.log
+*.lock
+public/static/media/*
+!public/static/media/.gitkeep
+
+# ASP.NET Core Secrets
+secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
